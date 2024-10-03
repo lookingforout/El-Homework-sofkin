@@ -1,2 +1,4 @@
 # El-Homework-sofkin
-ne znam
+My homework. Very nice. 
+
+Решения на задачи по HTML.
